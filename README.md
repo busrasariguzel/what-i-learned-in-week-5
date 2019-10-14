@@ -1,10 +1,12 @@
 # `WHAT I LEARNED IN WEEK 5`
 
+## `HRM`
+---
+
+
 ## `DOM MANIPULATION`
 * Manipulating what the user see
 
----
-## `HRM`
 ---
 
 ## `CSS DINER`
@@ -16,7 +18,7 @@
 ---
 ## `DOMB AND DOMBER`
 
+----
 
-
-## `
+## `Domination`
 
